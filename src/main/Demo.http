@@ -1,0 +1,11 @@
+### GET All Users
+GET https://localhost:8085/user
+Accept: application/json
+
+### GET User By ID
+GET https://localhost:8085/user/2
+Accept: application/json
+
+### GET
+GET https://localhost:8085/user
+Accept: application/json
